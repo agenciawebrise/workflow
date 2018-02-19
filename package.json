@@ -1,0 +1,20 @@
+{
+  "name": "webrise-workflow-tray",
+  "version": "0.0.1",
+  "main": "gulpfile.js",
+  "author": "Webrise",
+  "license": "MIT",
+  "description": "Workflow to develop stores with Tray Opencode",
+  "repository": {
+    "type": "git"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "js-yaml": "^3.10.0"
+  }
+}
